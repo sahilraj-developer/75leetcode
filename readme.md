@@ -7,8 +7,8 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ## 📌 Categories
 
 ### 1. Array / String
-- [ ] Two Sum (LC 1)  
-- [ ] Best Time to Buy and Sell Stock (LC 121)  
+- [x] Two Sum (LC 1)  
+- [x] Best Time to Buy and Sell Stock (LC 121)  
 - [ ] Contains Duplicate (LC 217)  
 - [ ] Product of Array Except Self (LC 238)  
 - [ ] Maximum Subarray (LC 53)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 0 / 75 Completed  
+- [ ] 2 / 75 Completed  
 
 

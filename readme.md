@@ -10,7 +10,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Two Sum (LC 1)  
 - [x] Best Time to Buy and Sell Stock (LC 121)  
 - [x] Contains Duplicate (LC 217)  
-- [ ] Product of Array Except Self (LC 238)  
+- [x] Product of Array Except Self (LC 238)  
 - [ ] Maximum Subarray (LC 53)  
 - [ ] Maximum Product Subarray (LC 152)  
 - [ ] Find Minimum in Rotated Sorted Array (LC 153)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 3 / 75 Completed  
+- [ ] 4 / 75 Completed  
 
 

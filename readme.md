@@ -12,7 +12,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Contains Duplicate (LC 217)  
 - [x] Product of Array Except Self (LC 238)  
 - [x] Maximum Subarray (LC 53)  
-- [ ] Maximum Product Subarray (LC 152)  
+- [x] Maximum Product Subarray (LC 152)  
 - [ ] Find Minimum in Rotated Sorted Array (LC 153)  
 - [ ] Search in Rotated Sorted Array (LC 33)  
 - [ ] 3Sum (LC 15)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 5 / 75 Completed  
+- [ ] 6 / 75 Completed  
 
 

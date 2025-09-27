@@ -13,7 +13,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Product of Array Except Self (LC 238)  
 - [x] Maximum Subarray (LC 53)  
 - [x] Maximum Product Subarray (LC 152)  
-- [ ] Find Minimum in Rotated Sorted Array (LC 153)  
+- [x] Find Minimum in Rotated Sorted Array (LC 153)  
 - [ ] Search in Rotated Sorted Array (LC 33)  
 - [ ] 3Sum (LC 15)  
 - [ ] Container With Most Water (LC 11)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 6 / 75 Completed  
+- [ ] 7 / 75 Completed  
 
 

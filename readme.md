@@ -14,7 +14,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Maximum Subarray (LC 53)  
 - [x] Maximum Product Subarray (LC 152)  
 - [x] Find Minimum in Rotated Sorted Array (LC 153)  
-- [ ] Search in Rotated Sorted Array (LC 33)  
+- [x] Search in Rotated Sorted Array (LC 33)  
 - [ ] 3Sum (LC 15)  
 - [ ] Container With Most Water (LC 11)  
 - [ ] Longest Substring Without Repeating Characters (LC 3)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 7 / 75 Completed  
+- [ ] 8 / 75 Completed  
 
 

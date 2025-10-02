@@ -18,7 +18,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] 3Sum (LC 15)  
 - [x] Container With Most Water (LC 11)  
 - [x] Longest Substring Without Repeating Characters (LC 3)  
-- [ ] Longest Repeating Character Replacement (LC 424)  
+- [x] Longest Repeating Character Replacement (LC 424)  
 - [ ] Minimum Window Substring (LC 76)  
 - [ ] Valid Anagram (LC 242)  
 - [ ] Group Anagrams (LC 49)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 11 / 75 Completed  
+- [ ] 12 / 75 Completed  
 
 

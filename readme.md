@@ -21,7 +21,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Longest Repeating Character Replacement (LC 424)  
 - [x] Minimum Window Substring (LC 76)  
 - [x] Valid Anagram (LC 242)  
-- [ ] Group Anagrams (LC 49)  
+- [x] Group Anagrams (LC 49)  
 - [ ] Valid Parentheses (LC 20)  
 - [ ] Valid Palindrome (LC 125)  
 - [ ] Longest Palindromic Substring (LC 5)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 14 / 75 Completed  
+- [ ] 15 / 75 Completed  
 
 

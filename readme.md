@@ -22,7 +22,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Minimum Window Substring (LC 76)  
 - [x] Valid Anagram (LC 242)  
 - [x] Group Anagrams (LC 49)  
-- [ ] Valid Parentheses (LC 20)  
+- [x] Valid Parentheses (LC 20)  
 - [ ] Valid Palindrome (LC 125)  
 - [ ] Longest Palindromic Substring (LC 5)  
 - [ ] Palindromic Substrings (LC 647)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 15 / 75 Completed  
+- [ ] 16 / 75 Completed  
 
 

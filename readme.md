@@ -26,7 +26,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Valid Palindrome (LC 125)  
 - [x] Longest Palindromic Substring (LC 5)  
 - [x] Palindromic Substrings (LC 647)  
-- [ ] Encode and Decode Strings (LintCode / Premium)
+- [x] Encode and Decode Strings (LintCode / Premium)
 
 ---
 
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 19 / 75 Completed  
+- [ ] 20 / 75 Completed  
 
 

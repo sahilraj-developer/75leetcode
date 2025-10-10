@@ -1,60 +1,60 @@
-Encode and Decode Strings
+// Encode and Decode Strings
 
 
 
-Question:
+// Question:
 
-Design an algorithm to encode a list of strings into a single string.
-Then decode that single string back into the original list.
+// Design an algorithm to encode a list of strings into a single string.
+// Then decode that single string back into the original list.
 
-You need to ensure that:
+// You need to ensure that:
 
-The encoded string is compact and unambiguous (you can always decode correctly).
+// The encoded string is compact and unambiguous (you can always decode correctly).
 
-You can handle empty strings and special characters like #, /, etc.
-
-
-
-
-
-🧩 Example 1
-
-
-Input: ["lint", "code", "love", "you"]
-Output (encoded): "4#lint4#code4#love3#you"
-After decoding: ["lint", "code", "love", "you"]
-
-
-
-
-🧩 Example 2
-
-
-
-Input: ["we", "say", ":", "yes!"]
-Output (encoded): "2#we3#say1#:4#yes!"
-After decoding: ["we", "say", ":", "yes!"]
+// You can handle empty strings and special characters like #, /, etc.
 
 
 
 
 
-Example:
+// 🧩 Example 1
 
 
-["lint", "code"]  →  "4#lint4#code"
+// Input: ["lint", "code", "love", "you"]
+// Output (encoded): "4#lint4#code4#love3#you"
+// After decoding: ["lint", "code", "love", "you"]
 
 
 
-While decoding, we:
 
-Read the number before # → gives the length of the next word.
+// 🧩 Example 2
 
-Then take that many characters after #.
 
-Repeat until the string ends.
 
-✅ This ensures we can correctly separate even if words contain # or spaces.
+// Input: ["we", "say", ":", "yes!"]
+// Output (encoded): "2#we3#say1#:4#yes!"
+// After decoding: ["we", "say", ":", "yes!"]
+
+
+
+
+
+// Example:
+
+
+// ["lint", "code"]  →  "4#lint4#code"
+
+
+
+// While decoding, we:
+
+// Read the number before # → gives the length of the next word.
+
+// Then take that many characters after #.
+
+// Repeat until the string ends.
+
+// ✅ This ensures we can correctly separate even if words contain # or spaces.
 
 
 
@@ -134,15 +134,13 @@ console.log("Decoded:", decoded2);
 
 
 
-Input: [ 'lint', 'code', 'love', 'you' ]
-Encoded: 4#lint4#code4#love3#you
-Decoded: [ 'lint', 'code', 'love', 'you' ]
+// Input: [ 'lint', 'code', 'love', 'you' ]
+// Encoded: 4#lint4#code4#love3#you
+// Decoded: [ 'lint', 'code', 'love', 'you' ]
 
-Input: [ 'we', 'say', ':', 'yes!' ]
-Encoded: 2#we3#say1#:4#yes!
-Decoded: [ 'we', 'say', ':', 'yes!' ]
-
-
+// Input: [ 'we', 'say', ':', 'yes!' ]
+// Encoded: 2#we3#say1#:4#yes!
+// Decoded: [ 'we', 'say', ':', 'yes!' ]
 
 
 
@@ -152,8 +150,10 @@ Decoded: [ 'we', 'say', ':', 'yes!' ]
 
 
 
-🕒 Time & Space Complexity
-Operation	Complexity
-Encoding	O(N) — iterate through all characters
-Decoding	O(N) — parse through each segment
-Space	O(N) — for storing result
+
+
+// 🕒 Time & Space Complexity
+// Operation	Complexity
+// Encoding	O(N) — iterate through all characters
+// Decoding	O(N) — parse through each segment
+// Space	O(N) — for storing result

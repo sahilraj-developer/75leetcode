@@ -34,7 +34,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Sum of Two Integers (LC 371)  
 - [x] Number of 1 Bits (LC 191)  
 - [x] Counting Bits (LC 338)  
-- [ ] Missing Number (LC 268)  
+- [x] Missing Number (LC 268)  
 - [ ] Reverse Bits (LC 190)  
 
 ---
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 23 / 75 Completed  
+- [ ] 24 / 75 Completed  
 
 

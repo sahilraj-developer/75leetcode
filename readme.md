@@ -42,7 +42,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ### 3. Dynamic Programming
 - [x] Climbing Stairs (LC 70)  
 - [x] Coin Change (LC 322)  
-- [ ] Longest Increasing Subsequence (LC 300)  
+- [x] Longest Increasing Subsequence (LC 300)  
 - [ ] Longest Common Subsequence (LC 1143)  
 - [ ] Word Break (LC 139)  
 - [ ] Combination Sum IV (LC 377)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 27 / 75 Completed  
+- [ ] 28 / 75 Completed  
 
 

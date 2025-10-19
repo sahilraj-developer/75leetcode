@@ -43,7 +43,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Climbing Stairs (LC 70)  
 - [x] Coin Change (LC 322)  
 - [x] Longest Increasing Subsequence (LC 300)  
-- [ ] Longest Common Subsequence (LC 1143)  
+- [x] Longest Common Subsequence (LC 1143)  
 - [ ] Word Break (LC 139)  
 - [ ] Combination Sum IV (LC 377)  
 - [ ] House Robber (LC 198)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 28 / 75 Completed  
+- [ ] 29 / 75 Completed  
 
 

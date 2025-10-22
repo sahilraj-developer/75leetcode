@@ -46,7 +46,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Longest Common Subsequence (LC 1143)  
 - [x] Word Break (LC 139)  
 - [x] Combination Sum IV (LC 377)  
-- [ ] House Robber (LC 198)  
+- [x] House Robber (LC 198)  
 - [ ] House Robber II (LC 213)  
 - [ ] Decode Ways (LC 91)  
 - [ ] Unique Paths (LC 62)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 31 / 75 Completed  
+- [ ] 32 / 75 Completed  
 
 

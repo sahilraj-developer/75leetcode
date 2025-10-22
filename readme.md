@@ -47,7 +47,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Word Break (LC 139)  
 - [x] Combination Sum IV (LC 377)  
 - [x] House Robber (LC 198)  
-- [ ] House Robber II (LC 213)  
+- [x] House Robber II (LC 213)  
 - [ ] Decode Ways (LC 91)  
 - [ ] Unique Paths (LC 62)  
 - [ ] Jump Game (LC 55)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 32 / 75 Completed  
+- [ ] 33 / 75 Completed  
 
 

@@ -48,8 +48,8 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Combination Sum IV (LC 377)  
 - [x] House Robber (LC 198)  
 - [x] House Robber II (LC 213)  
-- [ ] Decode Ways (LC 91)  
-- [ ] Unique Paths (LC 62)  
+- [x] Decode Ways (LC 91)  
+- [x] Unique Paths (LC 62)  
 - [ ] Jump Game (LC 55)  
 
 ---
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 33 / 75 Completed  
+- [ ] 35 / 75 Completed  
 
 

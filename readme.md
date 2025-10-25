@@ -50,7 +50,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] House Robber II (LC 213)  
 - [x] Decode Ways (LC 91)  
 - [x] Unique Paths (LC 62)  
-- [ ] Jump Game (LC 55)  
+- [x] Jump Game (LC 55)  
 
 ---
 
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 35 / 75 Completed  
+- [ ] 36 / 75 Completed  
 
 

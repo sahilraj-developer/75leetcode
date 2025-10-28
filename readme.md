@@ -58,7 +58,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Clone Graph (LC 133)  
 - [x] Course Schedule (LC 207)  
 - [x] Pacific Atlantic Water Flow (LC 417)  
-- [ ] Number of Islands (LC 200)  
+- [x] Number of Islands (LC 200)  
 - [ ] Longest Consecutive Sequence (LC 128)  
 - [ ] Alien Dictionary (LC 269 - Premium)  
 - [ ] Graph Valid Tree (LC 261 - Premium)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 39 / 75 Completed  
+- [ ] 40 / 75 Completed  
 
 

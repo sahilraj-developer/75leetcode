@@ -59,7 +59,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Course Schedule (LC 207)  
 - [x] Pacific Atlantic Water Flow (LC 417)  
 - [x] Number of Islands (LC 200)  
-- [ ] Longest Consecutive Sequence (LC 128)  
+- [x] Longest Consecutive Sequence (LC 128)  
 - [ ] Alien Dictionary (LC 269 - Premium)  
 - [ ] Graph Valid Tree (LC 261 - Premium)  
 - [ ] Number of Connected Components in an Undirected Graph (LC 323 - Premium)  

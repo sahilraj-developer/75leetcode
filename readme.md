@@ -61,7 +61,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Number of Islands (LC 200)  
 - [x] Longest Consecutive Sequence (LC 128)  
 - [x] Alien Dictionary (LC 269 - Premium)  
-- [ ] Graph Valid Tree (LC 261 - Premium)  
+- [x] Graph Valid Tree (LC 261 - Premium)  
 - [ ] Number of Connected Components in an Undirected Graph (LC 323 - Premium)  
 
 ---
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 41 / 75 Completed  
+- [ ] 42 / 75 Completed  
 
 

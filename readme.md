@@ -68,7 +68,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 
 ### 5. Interval
 - [x] Insert Interval (LC 57)  
-- [ ] Merge Intervals (LC 56)  
+- [x] Merge Intervals (LC 56)  
 - [ ] Non-overlapping Intervals (LC 435)  
 - [ ] Meeting Rooms (LC 252 - Premium)  
 - [ ] Meeting Rooms II (LC 253 - Premium)  
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 43 / 75 Completed  
+- [ ] 44 / 75 Completed  
 
 

@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 45 / 75 Completed  
+- [ ] 46 / 75 Completed  
 
 

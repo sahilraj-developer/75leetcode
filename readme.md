@@ -70,8 +70,8 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Insert Interval (LC 57)  
 - [x] Merge Intervals (LC 56)  
 - [x] Non-overlapping Intervals (LC 435)  
-- [ ] Meeting Rooms (LC 252 - Premium)  
-- [ ] Meeting Rooms II (LC 253 - Premium)  
+- [x] Meeting Rooms (LC 252 - Premium)  
+- [x] Meeting Rooms II (LC 253 - Premium)  
 
 ---
 

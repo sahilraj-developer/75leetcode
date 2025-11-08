@@ -1,72 +1,72 @@
-Problem: Reverse Linked List (LC 206)
+// Problem: Reverse Linked List (LC 206)
 
 
-Question:
+// Question:
 
-You are given the head of a singly linked list.
-Reverse the list and return the new head.
+// You are given the head of a singly linked list.
+// Reverse the list and return the new head.
 
-Example
-Input:  1 → 2 → 3 → 4 → 5 → null
-
-
-
-Output:
-
-5 → 4 → 3 → 2 → 1 → null
+// Example
+// Input:  1 → 2 → 3 → 4 → 5 → null
 
 
 
+// Output:
 
-
-
-💡 Intuition
-
-We reverse the direction of the next pointers one-by-one.
-
-We maintain three pointers:
-
-
-| Pointer | Meaning                                                     |
-| ------- | ----------------------------------------------------------- |
-| `prev`  | Points to the reversed list built so far                    |
-| `curr`  | The node we are currently processing                        |
-| `next`  | A temporary pointer to store `curr.next` before overwriting |
+// 5 → 4 → 3 → 2 → 1 → null
 
 
 
 
 
-🔁 Process Visualization
 
-Initial:
+// 💡 Intuition
 
+// We reverse the direction of the next pointers one-by-one.
 
-prev = null
-curr = 1 → 2 → 3 → 4 → 5
-
+// We maintain three pointers:
 
 
-
-Step-by-step:
-
-
-| Step | Action                                       | Result                         |
-| ---- | -------------------------------------------- | ------------------------------ |
-| 1    | Save next (`2`) → Reverse `1` → Move forward | `1 → null`, prev=1, curr=2     |
-| 2    | Save next (`3`) → Reverse `2` → Move forward | `2 → 1 → null`, prev=2, curr=3 |
-| 3    | Reverse `3`                                  | `3 → 2 → 1 → null`             |
-| 4    | Reverse `4`                                  | `4 → 3 → 2 → 1 → null`         |
-| 5    | Reverse `5`                                  | `5 → 4 → 3 → 2 → 1 → null`     |
+// | Pointer | Meaning                                                     |
+// | ------- | ----------------------------------------------------------- |
+// | `prev`  | Points to the reversed list built so far                    |
+// | `curr`  | The node we are currently processing                        |
+// | `next`  | A temporary pointer to store `curr.next` before overwriting |
 
 
 
 
 
-Final:
+// 🔁 Process Visualization
+
+// Initial:
 
 
-prev = 5 (new head)
+// prev = null
+// curr = 1 → 2 → 3 → 4 → 5
+
+
+
+
+// Step-by-step:
+
+
+// | Step | Action                                       | Result                         |
+// | ---- | -------------------------------------------- | ------------------------------ |
+// | 1    | Save next (`2`) → Reverse `1` → Move forward | `1 → null`, prev=1, curr=2     |
+// | 2    | Save next (`3`) → Reverse `2` → Move forward | `2 → 1 → null`, prev=2, curr=3 |
+// | 3    | Reverse `3`                                  | `3 → 2 → 1 → null`             |
+// | 4    | Reverse `4`                                  | `4 → 3 → 2 → 1 → null`         |
+// | 5    | Reverse `5`                                  | `5 → 4 → 3 → 2 → 1 → null`     |
+
+
+
+
+
+// Final:
+
+
+// prev = 5 (new head)
 
 
 
@@ -102,34 +102,34 @@ var reverseList = function(head) {
 
 
 
-🧠 Dry Run
+// 🧠 Dry Run
 
-Input list:
+// Input list:
 
-1 → 2 → 3 → null
-
-
-
-| curr | prev | Action                 | Resulting Links    |
-| ---- | ---- | ---------------------- | ------------------ |
-| 1    | null | reverse → move forward | `1 → null`         |
-| 2    | 1    | reverse → move forward | `2 → 1 → null`     |
-| 3    | 2    | reverse → move forward | `3 → 2 → 1 → null` |
-| null | 3    | end                    | return `3`         |
+// 1 → 2 → 3 → null
 
 
 
-
-
-✅ Output:
-
-
-3 → 2 → 1 → null
+// | curr | prev | Action                 | Resulting Links    |
+// | ---- | ---- | ---------------------- | ------------------ |
+// | 1    | null | reverse → move forward | `1 → null`         |
+// | 2    | 1    | reverse → move forward | `2 → 1 → null`     |
+// | 3    | 2    | reverse → move forward | `3 → 2 → 1 → null` |
+// | null | 3    | end                    | return `3`         |
 
 
 
 
-🧑‍💻 Optional Recursive Version
+
+// ✅ Output:
+
+
+// 3 → 2 → 1 → null
+
+
+
+
+// 🧑‍💻 Optional Recursive Version
 
 
 

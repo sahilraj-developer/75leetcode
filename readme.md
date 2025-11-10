@@ -78,7 +78,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ### 6. Linked List
 - [x] Reverse Linked List (LC 206)  
 - [x] Merge Two Sorted Lists (LC 21)  
-- [ ] Merge k Sorted Lists (LC 23)  
+- [x] Merge k Sorted Lists (LC 23)  
 - [ ] Remove Nth Node From End of List (LC 19)  
 - [ ] Reorder List (LC 143)  
 
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 47 / 75 Completed  
+- [ ] 48 / 75 Completed  
 
 

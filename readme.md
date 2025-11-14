@@ -86,7 +86,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 
 ### 7. Matrix
 - [x] Set Matrix Zeroes (LC 73)  
-- [ ] Spiral Matrix (LC 54)  
+- [x] Spiral Matrix (LC 54)  
 - [ ] Rotate Image (LC 48)  
 - [ ] Word Search (LC 79)  
 
@@ -118,6 +118,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] 51 / 75 Completed  
+- [ ] 52 / 75 Completed  
 
 

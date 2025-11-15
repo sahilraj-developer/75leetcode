@@ -22,7 +22,6 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Minimum Window Substring (LC 76)  
 - [x] Valid Anagram (LC 242)  
 - [x] Group Anagrams (LC 49)  
-- [x] Valid Parentheses (LC 20)  
 - [x] Valid Palindrome (LC 125)  
 - [x] Longest Palindromic Substring (LC 5)  
 - [x] Palindromic Substrings (LC 647)  
@@ -117,7 +116,20 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 
 ---
 
+### 10. Stack
+- [x] Valid Parentheses (LC 20)
+
+---
+
+### 11. Queue / BFS
+- [ ] Binary Tree Level Order Traversal (LC 102)  
+- [ ] Course Schedule (LC 207)  
+- [ ] Clone Graph (LC 133)  
+- [ ] Number of Islands (LC 200)  
+- [ ] Graph Valid Tree (LC 261)  
+- [ ] Number of Connected Components (LC 323)
+
+---
+
 ## ✅ Progress Tracker
-- [ ] 52 / 75 Completed  
-
-
+- [ ] **52 / 75 Completed**

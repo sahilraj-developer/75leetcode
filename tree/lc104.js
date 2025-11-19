@@ -1,46 +1,32 @@
-Problem: Maximum Depth of Binary Tree (LC 104)
+// Problem: Maximum Depth of Binary Tree (LC 104)
 
 
 
-Question:
+// Question:
 
-Given the root of a binary tree, return its maximum depth.
+// Given the root of a binary tree, return its maximum depth.
 
-A binary tree’s maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+// A binary tree’s maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
 
-✅ Example 1
-
-
-Input: root = [3,9,20,null,null,15,7]
-Output: 3
+// ✅ Example 1
 
 
-
-Explanation:
+// Input: root = [3,9,20,null,null,15,7]
+// Output: 3
 
 
 
-    3
-   / \
-  9  20
-     / \
-    15  7
-
-Depth = 3
+// Explanation:
 
 
 
+//     3
+//    / \
+//   9  20
+//      / \
+//     15  7
 
-
-
-
-
-
-✅ Example 2
-
-
-Input: root = [1,null,2]
-Output: 2
+// Depth = 3
 
 
 
@@ -50,18 +36,11 @@ Output: 2
 
 
 
+// ✅ Example 2
 
-💡 Intuition
 
-We can solve this easily using recursion (DFS).
-
-    For each node,
-    → the maximum depth = 1 + max(leftDepth, rightDepth)
-
-    The base case:
-    → if the node is null, depth = 0.
-
-This works top-down naturally as we return up the recursion stack.
+// Input: root = [1,null,2]
+// Output: 2
 
 
 
@@ -72,16 +51,37 @@ This works top-down naturally as we return up the recursion stack.
 
 
 
-⚙️ Two Approaches
-1️⃣ Recursive DFS (Most Common)
+// 💡 Intuition
 
-Simple, clean, and efficient.
+// We can solve this easily using recursion (DFS).
 
-2️⃣ Iterative BFS (Level Order Traversal)
+//     For each node,
+//     → the maximum depth = 1 + max(leftDepth, rightDepth)
 
-Use a queue to traverse level by level and count the number of levels.
+//     The base case:
+//     → if the node is null, depth = 0.
 
-✅ Approach 1: Recursive DFS (Clean & Elegant)
+// This works top-down naturally as we return up the recursion stack.
+
+
+
+
+
+
+
+
+
+
+// ⚙️ Two Approaches
+// 1️⃣ Recursive DFS (Most Common)
+
+// Simple, clean, and efficient.
+
+// 2️⃣ Iterative BFS (Level Order Traversal)
+
+// Use a queue to traverse level by level and count the number of levels.
+
+// ✅ Approach 1: Recursive DFS (Clean & Elegant)
 
 
 
@@ -138,10 +138,10 @@ console.log(maxDepth(root)); // ✅ Output: 3
 
 
 
-✅ Approach 2: Iterative BFS (Level Order Traversal)
+// ✅ Approach 2: Iterative BFS (Level Order Traversal)
 
-We can also find the depth using a queue.
-Each time we finish one level, we increase the depth count.
+// We can also find the depth using a queue.
+// Each time we finish one level, we increase the depth count.
 
 
 
@@ -176,9 +176,9 @@ var maxDepth = function(root) {
 
 
 
-🧠 Dry Run Example
+// 🧠 Dry Run Example
 
-Input:
+// Input:
 
 
-root = [3,9,20,null,null,15,7]
+// root = [3,9,20,null,null,15,7]

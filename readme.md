@@ -87,12 +87,12 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Set Matrix Zeroes (LC 73)  
 - [x] Spiral Matrix (LC 54)  
 - [x] Rotate Image (LC 48)  
-- [ ] Word Search (LC 79)  
+- [x] Word Search (LC 79)  
 
 ---
 
 ### 8. Tree
-- [ ] Maximum Depth of Binary Tree (LC 104)  
+- [x] Maximum Depth of Binary Tree (LC 104)  
 - [ ] Same Tree (LC 100)  
 - [ ] Invert/Flip Binary Tree (LC 226)  
 - [ ] Binary Tree Maximum Path Sum (LC 124)  

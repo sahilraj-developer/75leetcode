@@ -95,7 +95,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Maximum Depth of Binary Tree (LC 104)  
 - [x] Same Tree (LC 100)  
 - [x] Invert/Flip Binary Tree (LC 226)  
-- [ ] Binary Tree Maximum Path Sum (LC 124)  
+- [x] Binary Tree Maximum Path Sum (LC 124)  
 - [ ] Binary Tree Level Order Traversal (LC 102)  
 - [ ] Serialize and Deserialize Binary Tree (LC 297)  
 - [ ] Subtree of Another Tree (LC 572)  
@@ -132,4 +132,4 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] **52 / 75 Completed**
+- [ ] **56 / 75 Completed**

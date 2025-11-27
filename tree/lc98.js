@@ -1,19 +1,17 @@
 // Problem: Validate Binary Search Tree (LC 98)
 
 
-Question:
+// Question:
 
-Given the root of a binary tree, determine if it is a valid binary search tree (BST).
+// Given the root of a binary tree, determine if it is a valid binary search tree (BST).
 
-A valid BST must satisfy:
+// A valid BST must satisfy:
 
-1.Left subtree values < node value
+// 1.Left subtree values < node value
 
-2.Right subtree values > node value
+// 2.Right subtree values > node value
 
-3.Both left and right must also be valid BSTs recursively.
-
-
+// 3.Both left and right must also be valid BSTs recursively.
 
 
 
@@ -23,31 +21,33 @@ A valid BST must satisfy:
 
 
 
-💡 Intuition
-
-Use DFS while carrying min and max allowable value range for each node.
-
-For each node:
 
 
-min < node.val < max
+// 💡 Intuition
+
+// Use DFS while carrying min and max allowable value range for each node.
+
+// For each node:
 
 
-
-When going left:
-
-
-newMax = node.val
+// min < node.val < max
 
 
 
+// When going left:
+
+
+// newMax = node.val
 
 
 
-When going right:
 
 
-newMin = node.val
+
+// When going right:
+
+
+// newMin = node.val
 
 
 
@@ -119,42 +119,42 @@ console.log(isValidBST(root2)); // false
 
 
 
-🧠 Dry Run Example
-Input:
+// 🧠 Dry Run Example
+// Input:
 
 
-    5
-   / \
-  1   4
-     / \
-    3   6
-
-
-
-
-
-| Node | Allowed Range | Valid?   | Result       |
-| ---- | ------------- | -------- | ------------ |
-| 5    | (-∞, ∞)       | yes      | continue     |
-| 1    | (-∞, 5)       | yes      | continue     |
-| 4    | (5, ∞)        | 4 <= 5 ❌ | return false |
-
-
-
-
-❌ Not a valid BST.
+//     5
+//    / \
+//   1   4
+//      / \
+//     3   6
 
 
 
 
 
+// | Node | Allowed Range | Valid?   | Result       |
+// | ---- | ------------- | -------- | ------------ |
+// | 5    | (-∞, ∞)       | yes      | continue     |
+// | 1    | (-∞, 5)       | yes      | continue     |
+// | 4    | (5, ∞)        | 4 <= 5 ❌ | return false |
 
 
-⏱️ Complexity
+
+
+// ❌ Not a valid BST.
 
 
 
-| Type      | Complexity                                  |
-| --------- | ------------------------------------------- |
-| **Time**  | O(N) — visit each node once                 |
-| **Space** | O(H) — recursion depth (H = height of tree) |
+
+
+
+
+// ⏱️ Complexity
+
+
+
+// | Type      | Complexity                                  |
+// | --------- | ------------------------------------------- |
+// | **Time**  | O(N) — visit each node once                 |
+// | **Space** | O(H) — recursion depth (H = height of tree) |

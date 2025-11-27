@@ -100,7 +100,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Serialize and Deserialize Binary Tree (LC 297)  
 - [x] Subtree of Another Tree (LC 572)  
 - [x] Construct Binary Tree from Preorder and Inorder Traversal (LC 105)  
-- [ ] Validate Binary Search Tree (LC 98)  
+- [x] Validate Binary Search Tree (LC 98)  
 - [ ] Kth Smallest Element in a BST (LC 230)  
 - [ ] Lowest Common Ancestor of BST (LC 235)  
 - [ ] Implement Trie (Prefix Tree) (LC 208)  
@@ -132,4 +132,4 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] **60 / 75 Completed**
+- [ ] **61 / 75 Completed**

@@ -102,8 +102,8 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Construct Binary Tree from Preorder and Inorder Traversal (LC 105)  
 - [x] Validate Binary Search Tree (LC 98)  
 - [x] Kth Smallest Element in a BST (LC 230)  
-- [ ] Lowest Common Ancestor of BST (LC 235)  
-- [ ] Implement Trie (Prefix Tree) (LC 208)  
+- [x] Lowest Common Ancestor of BST (LC 235)  
+- [x] Implement Trie (Prefix Tree) (LC 208)  
 - [ ] Add and Search Word (LC 211)  
 - [ ] Word Search II (LC 212)  
 
@@ -132,4 +132,4 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] **62 / 75 Completed**
+- [ ] **64 / 75 Completed**

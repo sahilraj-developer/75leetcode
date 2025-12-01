@@ -104,8 +104,8 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Kth Smallest Element in a BST (LC 230)  
 - [x] Lowest Common Ancestor of BST (LC 235)  
 - [x] Implement Trie (Prefix Tree) (LC 208)  
-- [ ] Add and Search Word (LC 211)  
-- [ ] Word Search II (LC 212)  
+- [x] Add and Search Word (LC 211)  
+- [x] Word Search II (LC 212)  
 
 ---
 

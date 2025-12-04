@@ -111,7 +111,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 
 ### 9. Heap
 - [x] Merge k Sorted Lists (LC 23)  
-- [ ] Top K Frequent Elements (LC 347)  
+- [x] Top K Frequent Elements (LC 347)  
 - [ ] Find Median from Data Stream (LC 295)  
 
 ---

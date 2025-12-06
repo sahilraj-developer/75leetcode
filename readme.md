@@ -112,7 +112,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ### 9. Heap
 - [x] Merge k Sorted Lists (LC 23)  
 - [x] Top K Frequent Elements (LC 347)  
-- [ ] Find Median from Data Stream (LC 295)  
+- [x] Find Median from Data Stream (LC 295)  
 
 ---
 
@@ -122,7 +122,7 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ### 11. Queue / BFS
-- [ ] Binary Tree Level Order Traversal (LC 102)  
+- [x] Binary Tree Level Order Traversal (LC 102)  
 - [ ] Course Schedule (LC 207)  
 - [ ] Clone Graph (LC 133)  
 - [ ] Number of Islands (LC 200)  
@@ -132,4 +132,4 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 ---
 
 ## ✅ Progress Tracker
-- [ ] **67 / 75 Completed**
+- [ ] **70 / 75 Completed**

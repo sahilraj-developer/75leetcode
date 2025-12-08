@@ -125,11 +125,11 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Binary Tree Level Order Traversal (LC 102)  
 - [x] Course Schedule (LC 207)  
 - [x] Clone Graph (LC 133)  
-- [ ] Number of Islands (LC 200)  
+- [x] Number of Islands (LC 200)  
 - [ ] Graph Valid Tree (LC 261)  
 - [ ] Number of Connected Components (LC 323)
 
 ---
 
 ## ✅ Progress Tracker
-- [ ] **72 / 75 Completed**
+- [ ] **73 / 75 Completed**

@@ -127,9 +127,9 @@ This repository contains solutions and notes for the **Blind 75 LeetCode** probl
 - [x] Clone Graph (LC 133)  
 - [x] Number of Islands (LC 200)  
 - [x] Graph Valid Tree (LC 261)  
-- [ ] Number of Connected Components (LC 323)
+- [x] Number of Connected Components (LC 323)
 
 ---
 
 ## ✅ Progress Tracker
-- [ ] **74 / 75 Completed**
+- [x] **75 / 75 Completed**
